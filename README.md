@@ -1,20 +1,21 @@
 <div align="center">
 
-# ZigX
+# ZigX-Python
 
-[![PyPI version](https://badge.fury.io/py/zigx.svg)](https://badge.fury.io/py/zigx)
-[![PyPI downloads](https://img.shields.io/pypi/dm/zigx.svg)](https://pypi.org/project/zigx/)
+[![PyPI version](https://badge.fury.io/py/zigx-python.svg)](https://badge.fury.io/py/zigx-python)
+[![PyPI downloads](https://img.shields.io/pypi/dm/zigx-python.svg)](https://pypi.org/project/zigx-python/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python](https://img.shields.io/pypi/pyversions/zigx.svg)](https://pypi.org/project/zigx/)
-[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue)](https://muhammad-fiaz.github.io/zigx)
-[![CI](https://github.com/muhammad-fiaz/zigx/actions/workflows/deploy.yml/badge.svg)](https://github.com/muhammad-fiaz/zigx/actions)
-[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/zigx)](https://github.com/muhammad-fiaz/zigx/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/zigx)](https://github.com/muhammad-fiaz/zigx/pulls)
-[![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/zigx)](https://github.com/muhammad-fiaz/zigx/commits/main)
+[![Python](https://img.shields.io/pypi/pyversions/zigx-python.svg)](https://pypi.org/project/zigx-python/)
+[![Documentation](https://img.shields.io/badge/docs-mkdocs-blue)](https://muhammad-fiaz.github.io/zigx-python)
+[![CI](https://github.com/muhammad-fiaz/zigx-python/actions/workflows/deploy.yml/badge.svg)](https://github.com/muhammad-fiaz/zigx-python/actions)
+[![GitHub issues](https://img.shields.io/github/issues/muhammad-fiaz/zigx-python)](https://github.com/muhammad-fiaz/zigx-python/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/muhammad-fiaz/zigx-python)](https://github.com/muhammad-fiaz/zigx-python/pulls)
+[![GitHub last commit](https://img.shields.io/github/last-commit/muhammad-fiaz/zigx-python)](https://github.com/muhammad-fiaz/zigx-python/commits/main)
 
 *A maturin-like Python binding system implemented in pure Zig.*
 
 </div>
+
 
 ZigX makes it easy to create Python extensions using Zig, providing automatic ctypes-based bindings, type stub generation, GIL support, and cross-platform wheel building.
 
