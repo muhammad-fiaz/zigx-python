@@ -52,14 +52,14 @@ uv pip install zigx
 ### From Source (Requires Zig 0.14.0+)
 
 ```bash
-git clone https://github.com/muhammad-fiaz/zigx.git
+git clone https://github.com/muhammad-fiaz/zigx-python.git
 cd zigx
 uv pip install -e .
 ```
 
 ## Documentation
 
-📚 **Full documentation is available at [muhammad-fiaz.github.io/zigx](https://muhammad-fiaz.github.io/zigx)**
+📚 **Full documentation is available at [muhammad-fiaz.github.io/zigx-python](https://muhammad-fiaz.github.io/zigx-python)**
 
 The documentation includes:
 - Getting started guide
@@ -252,7 +252,7 @@ For documentation building:
 
 ## Documentation
 
-Full documentation is available at [muhammad-fiaz.github.io/zigx](https://muhammad-fiaz.github.io/zigx)
+Full documentation is available at [muhammad-fiaz.github.io/zigx-python](https://muhammad-fiaz.github.io/zigx-python)
 
 ## License
 
@@ -264,7 +264,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Links
 
-- 📚 [Documentation](https://muhammad-fiaz.github.io/zigx)
-- 🐛 [Issue Tracker](https://github.com/muhammad-fiaz/zigx/issues)
+- 📚 [Documentation](https://muhammad-fiaz.github.io/zigx-python)
+- 🐛 [Issue Tracker](https://github.com/muhammad-fiaz/zigx-python/issues)
 - 📦 [PyPI Package](https://pypi.org/project/zigx/)
-- 💻 [Source Code](https://github.com/muhammad-fiaz/zigx)
+- 💻 [Source Code](https://github.com/muhammad-fiaz/zigx-python)
