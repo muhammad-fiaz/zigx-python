@@ -20,7 +20,7 @@
 ZigX makes it easy to create Python extensions using Zig, providing automatic ctypes-based bindings, type stub generation, GIL support, and cross-platform wheel building.
 
 > [!WARNING]
-> This project has been **discontinued** and is no longer actively developed.
+> This project has been **discontinued** and is no longer actively developed. The PyPI package has also been deleted.
 
 ## Features
 
